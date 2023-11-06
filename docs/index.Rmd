@@ -1,5 +1,5 @@
 ---
-title: "Comparatif ordinateur 2023"
+title: "Achat ordinateur 2023"
 author: "Edgar Dusacre"
 date: "`r Sys.Date()`"
 output:
@@ -45,7 +45,7 @@ library(multcomp)
 library(kableExtra)
 library(janitor)
 ```
-## Quarterly Results {.tabset .tabset-fade .tabset-pills}
+## comparaison des ordianteurs {.tabset .tabset-fade .tabset-pills}
 
 ### Tableau comparatif
 ```{r data, include=FALSE}
